@@ -1,0 +1,16 @@
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\MSpecTests.DW.Commerce.Rest.dll
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\MSpecTests.DW.Commerce.Rest.pdb
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\DW.Commerce.Rest.Domain.dll
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\DW.Commerce.Rest.Tasks.dll
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\Machine.Specifications.AutoMocking.dll
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\Machine.Specifications.dll
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\Machine.Specifications.Mvc.dll
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\SharpArch.Domain.dll
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\Newtonsoft.Json.dll
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\DW.Commerce.Rest.Domain.pdb
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\DW.Commerce.Rest.Tasks.pdb
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\Machine.Specifications.Mvc.pdb
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\bin\Debug\SharpArch.Domain.pdb
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\obj\Debug\MSpecTests.DW.Commerce.Rest.dll
+C:\dev\sharp\Solutions\MSpecTests.DW.Commerce.Rest\obj\Debug\MSpecTests.DW.Commerce.Rest.pdb

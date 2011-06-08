@@ -1,0 +1,42 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>All Commerce</title>
+    <script type='text/javascript' src='@Url.Content("/Content/js/jquery-1.6.1.min.js")'></script>
+    <script type='text/javascript' src='@Url.Content("/Content/js/jquery.tmpl.js")'></script>
+    <script type='text/javascript' src='@Url.Content("/Content/js/Knockout.js")'></script>
+
+ 
+</head>
+<body>
+    <div>
+        <h1>Store</h1>
+        <select data-bind="options: products, 
+                           optionsText: 'Name'"></select>
+    </div>
+
+       <script>
+           var products = [];
+        $(document).ready(function(){
+            $.getJSON("/Products/", function(data) {
+               products =  data
+               alert(products[0].Name);
+
+               var viewModel = {
+               /* we'll populate this in a moment */
+           };
+           ko.applyBindings(viewModel); 
+
+           });
+
+         
+
+        });
+    </script>
+</body>
+</html>

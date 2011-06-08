@@ -1,0 +1,8 @@
+C:\dev\sharp\Solutions\DW.Commerce.Rest.Domain\bin\Debug\DW.Commerce.Rest.Domain.dll
+C:\dev\sharp\Solutions\DW.Commerce.Rest.Domain\bin\Debug\DW.Commerce.Rest.Domain.pdb
+C:\dev\sharp\Solutions\DW.Commerce.Rest.Domain\bin\Debug\SharpArch.Domain.dll
+C:\dev\sharp\Solutions\DW.Commerce.Rest.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\dev\sharp\Solutions\DW.Commerce.Rest.Domain\bin\Debug\SharpArch.Domain.pdb
+C:\dev\sharp\Solutions\DW.Commerce.Rest.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\sharp\Solutions\DW.Commerce.Rest.Domain\obj\Debug\DW.Commerce.Rest.Domain.dll
+C:\dev\sharp\Solutions\DW.Commerce.Rest.Domain\obj\Debug\DW.Commerce.Rest.Domain.pdb
